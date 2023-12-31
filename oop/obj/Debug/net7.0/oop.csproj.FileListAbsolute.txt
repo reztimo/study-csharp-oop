@@ -1,0 +1,15 @@
+/home/maoelana/Documents/Learning C# OOP/oop/bin/Debug/net7.0/oop
+/home/maoelana/Documents/Learning C# OOP/oop/bin/Debug/net7.0/oop.deps.json
+/home/maoelana/Documents/Learning C# OOP/oop/bin/Debug/net7.0/oop.runtimeconfig.json
+/home/maoelana/Documents/Learning C# OOP/oop/bin/Debug/net7.0/oop.dll
+/home/maoelana/Documents/Learning C# OOP/oop/bin/Debug/net7.0/oop.pdb
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.csproj.AssemblyReference.cache
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.GeneratedMSBuildEditorConfig.editorconfig
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.AssemblyInfoInputs.cache
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.AssemblyInfo.cs
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.csproj.CoreCompileInputs.cache
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.dll
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/refint/oop.dll
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.pdb
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/oop.genruntimeconfig.cache
+/home/maoelana/Documents/Learning C# OOP/oop/obj/Debug/net7.0/ref/oop.dll
